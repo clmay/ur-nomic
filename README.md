@@ -5,6 +5,6 @@ rule:
 
 > Rule 1: You must change this rule.
 
-## Rules currently in effect
+## Known instances
 
-- [Rule 1](rule-1.md)
+- [oct-nomic](https://github.com/oct-nomic)
